@@ -1,0 +1,41 @@
+body {
+    text-align: center;
+}
+
+.results-table {
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 25px;
+}
+
+.button-container {
+    border: 2px solid black;
+    padding-top: 25px;
+    padding-bottom: 25px;
+    margin-top: 20px;
+}
+
+table {
+    border: 2px solid black;
+}
+
+td, th {
+    border: 1px solid black;
+}
+
+.result-header {
+    color: coral;
+}
+
+.flip-button {
+    background-color: cornflowerblue;
+    border-radius: 8px;
+    height: 40px;
+}
+
+
+.reset-button {
+    background-color: coral;
+    border-radius: 8px;
+    height: 40px;
+}
